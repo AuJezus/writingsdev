@@ -1,1 +1,1 @@
-A simple project to sharpen my css + html skills. Code is written by me, but design got from here: https://cs.fyi/.
+A simple project to sharpen my css + html skills. Code is written by me, but design got from [here](https://www.figma.com/file/nh0V05z3NB87ue9v5PcO3R/writings.dev?type=design&node-id=0%3A1&t=2iQplaIojU3ydAfW-1).
