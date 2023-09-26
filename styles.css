@@ -1,0 +1,27 @@
+html {
+  --text-light: #fff;
+  --text-faded: #4d4d4d;
+  --text-dark: #0f1217;
+
+  --font-poppins: "Poppins", sans-serif;
+  --font-recursive: "Recursive", sans-serif;
+
+  --color-primary: #ff7575;
+}
+
+body {
+  background: #232830;
+  color: var(--text-dark);
+  font-family: var(--font-poppins);
+}
+
+h1 {
+  color: var(--text-light);
+  font-size: 3rem;
+  font-weight: 400;
+}
+
+.section {
+  max-width: 1200px;
+  margin: 0 auto;
+}
