@@ -212,7 +212,6 @@ h3 {
 
 .article__nav .active {
   color: var(--color-primary);
-  /* border-top: 3px solid var(--color-primary); */
   position: relative;
 }
 
